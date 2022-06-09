@@ -1,0 +1,2 @@
+# curriculo
+etec curriculo
